@@ -1,0 +1,7 @@
+{
+    "name": "CDT",
+    "version": "0.0.0",
+    "dependencies": {
+        "d3": "~4.2.0"
+    }
+}

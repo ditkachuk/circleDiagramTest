@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+
+svg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #16314C;
+}
+
+text {
+    font-family: sans-serif;
+    fill: white;
+}

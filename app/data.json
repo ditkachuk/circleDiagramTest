@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "name": "First multiline text addition",
+            "value": 75
+        },
+        {
+            "name": "Second",
+            "value": 3
+        },
+        {
+            "name": "Third",
+            "value": 22
+        }
+    ]
+}

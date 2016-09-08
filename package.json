@@ -1,0 +1,15 @@
+{
+    "name": "CDT",
+    "description": "Test web app for circle diagram layout",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ditkachuk/circleDiagramTest.git"
+    },
+    "version": "0.0.0",
+    "dependencies": {
+        "bower": "*"
+    },
+    "scripts": {
+        "postinstall": "bower install"
+    }
+}
